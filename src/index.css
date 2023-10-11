@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(165, 42, 42);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.form-control{
+    width: 500px;
+}
